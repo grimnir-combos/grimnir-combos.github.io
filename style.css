@@ -11,3 +11,7 @@ body {
 p, h1, h2, h3, h4, li {
 	color: 0C0D2D;
 }
+
+.combo {
+	margin-bottom: 0.3em;
+}
