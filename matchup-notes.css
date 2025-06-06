@@ -1,0 +1,23 @@
+p {
+	margin-bottom: -0.35em;
+}
+
+img {
+	width: 10%;
+}
+
+.name-and-image {
+	display: flex;
+	align-items: center;
+	column-gap: 1em;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
